@@ -13,4 +13,4 @@ All coding and styling was completed by Josh Herd.
 Technologies Used:
 Bootstrap framework
 
-![Screenshot of deployed application]()
+![Image description](https://github.com/jherd801/updatedPortfolio/blob/master/assets/portfolioScreenshot.png)
