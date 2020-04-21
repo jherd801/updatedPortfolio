@@ -37,12 +37,9 @@
   }
   
   .portfolioPic {
-      width: 200px;
-      height: 200px;
+      width: 40vw;
       background-color: gray;
       border: 1px solid black;
-      margin: 10px;
-      text-align: center;
   }
   
   .formBuffer {
